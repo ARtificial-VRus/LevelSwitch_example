@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AE9765C9-B7D2-A9DF-40FE-2BC1CF6089C7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/01_Scripts/JumpBackFromSecondLevel.cs">
+    <Files>
+      <File FileName="Assets/01_Scripts/playerMovement.cs" Line="65" Column="77" />
+      <File FileName="Assets/01_Scripts/nextLevelOnWalkthrough.cs" Line="16" Column="48" />
+      <File FileName="Assets/01_Scripts/JumpBackFromSecondLevel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LevelSwitch PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
